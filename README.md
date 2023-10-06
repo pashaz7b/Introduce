@@ -7,7 +7,7 @@ This repository serves as a simple introduction to me through a basic HTML and C
 I'm Pasha, and this project is a way for me to share some information about myself with you. The webpage includes a brief introduction, and it's styled using CSS to make it visually appealing.
 
 # Video
-
+https://github.com/pashaz7b/Introduce/assets/122622842/b6df7a41-ab27-4890-90cc-6876ad0ac910
 
 ## Repository Contents
 
