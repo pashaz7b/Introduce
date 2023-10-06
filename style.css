@@ -1,0 +1,55 @@
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: solid;
+    background-color: #610298;
+    color: rgb(20, 6, 31);
+}
+
+header {
+    background-color: #4916e0;
+    border-radius: 15px 15px;
+}
+
+
+.bodyclass {
+    background-color: hsl(342, 51%, 63%);
+    border-radius: 15px 60px 15px 15px;
+}
+
+
+.container h1 {
+    color: rgba(255, 183, 1, 0.833);
+    text-align: center;
+    font-size: 60px;
+    margin: 0px;
+    padding: 10px;
+    border-color: azure;
+
+}
+
+.footer-contain p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.p-inbody {
+    padding: 15px;
+    padding-right: 30px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.github {
+    text-align: center;
+    font-size: 45px;
+}
+
+.icons {
+    text-align: center;
+    font-size: 40px;
+}
